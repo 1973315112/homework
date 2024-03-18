@@ -1,0 +1,1098 @@
+Running Perf for data size: 100
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 100':
+
+            62,225      ll_cache_miss:u
+            18,781      ll_cache_rd:u
+
+       0.406927940 seconds time elapsed
+
+       0.337474000 seconds user
+       0.069480000 seconds sys
+
+
+Running Perf for data size: 200
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 200':
+
+            66,829      ll_cache_miss:u
+            16,802      ll_cache_rd:u
+
+       0.410011180 seconds time elapsed
+
+       0.400064000 seconds user
+       0.010001000 seconds sys
+
+
+Running Perf for data size: 300
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 300':
+
+            71,297      ll_cache_miss:u
+            34,194      ll_cache_rd:u
+
+       0.414264850 seconds time elapsed
+
+       0.404176000 seconds user
+       0.010104000 seconds sys
+
+
+Running Perf for data size: 400
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 400':
+
+            90,536      ll_cache_miss:u
+           125,502      ll_cache_rd:u
+
+       0.416833530 seconds time elapsed
+
+       0.397021000 seconds user
+       0.019851000 seconds sys
+
+
+Running Perf for data size: 500
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 500':
+
+            99,621      ll_cache_miss:u
+           203,820      ll_cache_rd:u
+
+       0.421227820 seconds time elapsed
+
+       0.361077000 seconds user
+       0.060179000 seconds sys
+
+
+Running Perf for data size: 600
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 600':
+
+           125,116      ll_cache_miss:u
+           288,008      ll_cache_rd:u
+
+       0.424172540 seconds time elapsed
+
+       0.414348000 seconds user
+       0.009865000 seconds sys
+
+
+Running Perf for data size: 700
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 700':
+
+           134,364      ll_cache_miss:u
+           384,089      ll_cache_rd:u
+
+       0.429792450 seconds time elapsed
+
+       0.389827000 seconds user
+       0.039982000 seconds sys
+
+
+Running Perf for data size: 800
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 800':
+
+           168,099      ll_cache_miss:u
+           497,190      ll_cache_rd:u
+
+       0.436503230 seconds time elapsed
+
+       0.416221000 seconds user
+       0.020303000 seconds sys
+
+
+Running Perf for data size: 900
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 900':
+
+           200,436      ll_cache_miss:u
+           630,012      ll_cache_rd:u
+
+       0.447071500 seconds time elapsed
+
+       0.426784000 seconds user
+       0.020323000 seconds sys
+
+
+Running Perf for data size: 1000
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1000':
+
+           220,191      ll_cache_miss:u
+           760,003      ll_cache_rd:u
+
+       0.457134530 seconds time elapsed
+
+       0.417407000 seconds user
+       0.039753000 seconds sys
+
+
+Running Perf for data size: 1100
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1100':
+
+           247,287      ll_cache_miss:u
+           911,237      ll_cache_rd:u
+
+       0.467410930 seconds time elapsed
+
+       0.457483000 seconds user
+       0.009945000 seconds sys
+
+
+Running Perf for data size: 1200
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1200':
+
+           275,890      ll_cache_miss:u
+         1,072,441      ll_cache_rd:u
+
+       0.481497060 seconds time elapsed
+
+       0.451418000 seconds user
+       0.030094000 seconds sys
+
+
+Running Perf for data size: 1300
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1300':
+
+           307,530      ll_cache_miss:u
+         1,245,597      ll_cache_rd:u
+
+       0.488974150 seconds time elapsed
+
+       0.449079000 seconds user
+       0.039918000 seconds sys
+
+
+Running Perf for data size: 1400
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1400':
+
+           334,041      ll_cache_miss:u
+         1,428,516      ll_cache_rd:u
+
+       0.502357960 seconds time elapsed
+
+       0.492542000 seconds user
+       0.009850000 seconds sys
+
+
+Running Perf for data size: 1500
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1500':
+
+           361,570      ll_cache_miss:u
+         1,620,688      ll_cache_rd:u
+
+       0.518552180 seconds time elapsed
+
+       0.508603000 seconds user
+       0.009972000 seconds sys
+
+
+Running Perf for data size: 1600
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1600':
+
+           401,906      ll_cache_miss:u
+         1,836,434      ll_cache_rd:u
+
+       0.531140810 seconds time elapsed
+
+       0.521148000 seconds user
+       0.010022000 seconds sys
+
+
+Running Perf for data size: 1700
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1700':
+
+           444,444      ll_cache_miss:u
+         2,065,158      ll_cache_rd:u
+
+       0.548128960 seconds time elapsed
+
+       0.498318000 seconds user
+       0.049831000 seconds sys
+
+
+Running Perf for data size: 1800
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1800':
+
+           478,455      ll_cache_miss:u
+         2,297,963      ll_cache_rd:u
+
+       0.562867110 seconds time elapsed
+
+       0.523396000 seconds user
+       0.039501000 seconds sys
+
+
+Running Perf for data size: 1900
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 1900':
+
+           530,528      ll_cache_miss:u
+         2,541,944      ll_cache_rd:u
+
+       0.577734190 seconds time elapsed
+
+       0.567811000 seconds user
+       0.009961000 seconds sys
+
+
+Running Perf for data size: 2000
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2000':
+
+           587,132      ll_cache_miss:u
+         2,806,465      ll_cache_rd:u
+
+       0.598684110 seconds time elapsed
+
+       0.588730000 seconds user
+       0.009978000 seconds sys
+
+
+Running Perf for data size: 2100
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2100':
+
+           633,007      ll_cache_miss:u
+         3,082,593      ll_cache_rd:u
+
+       0.619453550 seconds time elapsed
+
+       0.569517000 seconds user
+       0.049957000 seconds sys
+
+
+Running Perf for data size: 2200
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2200':
+
+           692,126      ll_cache_miss:u
+         3,361,447      ll_cache_rd:u
+
+       0.638956500 seconds time elapsed
+
+       0.628989000 seconds user
+       0.009983000 seconds sys
+
+
+Running Perf for data size: 2300
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2300':
+
+           820,719      ll_cache_miss:u
+         3,652,062      ll_cache_rd:u
+
+       0.659398720 seconds time elapsed
+
+       0.639423000 seconds user
+       0.019981000 seconds sys
+
+
+Running Perf for data size: 2400
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2400':
+
+           827,584      ll_cache_miss:u                                                                                                           
+         3,974,793      ll_cache_rd:u                                                                                                             
+
+       0.680239840 seconds time elapsed
+
+       0.660611000 seconds user
+       0.020018000 seconds sys
+
+
+Running Perf for data size: 2500
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2500':
+
+           866,693      ll_cache_miss:u                                                                                                           
+         4,283,697      ll_cache_rd:u                                                                                                             
+
+       0.700682950 seconds time elapsed
+
+       0.690711000 seconds user
+       0.010010000 seconds sys
+
+
+Running Perf for data size: 2600
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2600':
+
+         1,070,822      ll_cache_miss:u                                                                                                           
+         4,635,808      ll_cache_rd:u                                                                                                             
+
+       0.730173400 seconds time elapsed
+
+       0.720191000 seconds user
+       0.010002000 seconds sys
+
+
+Running Perf for data size: 2700
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2700':
+
+         1,448,400      ll_cache_miss:u                                                                                                           
+         4,975,895      ll_cache_rd:u                                                                                                             
+
+       0.753637740 seconds time elapsed
+
+       0.743597000 seconds user
+       0.010048000 seconds sys
+
+
+Running Perf for data size: 2800
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2800':
+
+         1,954,746      ll_cache_miss:u                                                                                                           
+         5,321,576      ll_cache_rd:u                                                                                                             
+
+       0.785465800 seconds time elapsed
+
+       0.775533000 seconds user
+       0.009942000 seconds sys
+
+
+Running Perf for data size: 2900
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 2900':
+
+         2,806,390      ll_cache_miss:u                                                                                                           
+         5,702,413      ll_cache_rd:u                                                                                                             
+
+       0.816852020 seconds time elapsed
+
+       0.806913000 seconds user
+       0.009961000 seconds sys
+
+
+Running Perf for data size: 3000
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3000':
+
+         3,506,769      ll_cache_miss:u                                                                                                           
+         6,084,569      ll_cache_rd:u                                                                                                             
+
+       0.851960160 seconds time elapsed
+
+       0.842073000 seconds user
+       0.009906000 seconds sys
+
+
+Running Perf for data size: 3100
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3100':
+
+         3,987,762      ll_cache_miss:u                                                                                                           
+         6,478,870      ll_cache_rd:u                                                                                                             
+
+       0.868247570 seconds time elapsed
+
+       0.848322000 seconds user
+       0.019960000 seconds sys
+
+
+Running Perf for data size: 3200
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3200':
+
+         4,870,100      ll_cache_miss:u                                                                                                           
+         6,884,495      ll_cache_rd:u                                                                                                             
+
+       0.918150890 seconds time elapsed
+
+       0.898217000 seconds user
+       0.019960000 seconds sys
+
+
+Running Perf for data size: 3300
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3300':
+
+         5,518,523      ll_cache_miss:u                                                                                                           
+         7,297,149      ll_cache_rd:u                                                                                                             
+
+       0.949618350 seconds time elapsed
+
+       0.939639000 seconds user
+       0.009996000 seconds sys
+
+
+Running Perf for data size: 3400
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3400':
+
+         6,026,501      ll_cache_miss:u                                                                                                           
+         7,735,044      ll_cache_rd:u                                                                                                             
+
+       0.967406940 seconds time elapsed
+
+       0.937529000 seconds user
+       0.029921000 seconds sys
+
+
+Running Perf for data size: 3500
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3500':
+
+         6,881,789      ll_cache_miss:u                                                                                                           
+         8,185,457      ll_cache_rd:u                                                                                                             
+
+       1.026246370 seconds time elapsed
+
+       1.016305000 seconds user
+       0.009963000 seconds sys
+
+
+Running Perf for data size: 3600
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3600':
+
+         7,634,685      ll_cache_miss:u                                                                                                           
+         8,651,965      ll_cache_rd:u                                                                                                             
+
+       1.063879890 seconds time elapsed
+
+       1.043832000 seconds user
+       0.020073000 seconds sys
+
+
+Running Perf for data size: 3700
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3700':
+
+         8,243,501      ll_cache_miss:u                                                                                                           
+         9,117,124      ll_cache_rd:u                                                                                                             
+
+       1.102919630 seconds time elapsed
+
+       1.092914000 seconds user
+       0.010026000 seconds sys
+
+
+Running Perf for data size: 3800
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3800':
+
+         8,773,763      ll_cache_miss:u                                                                                                           
+         9,594,445      ll_cache_rd:u                                                                                                             
+
+       1.114547350 seconds time elapsed
+
+       1.094685000 seconds user
+       0.019903000 seconds sys
+
+
+Running Perf for data size: 3900
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 3900':
+
+         9,530,156      ll_cache_miss:u
+        10,106,471      ll_cache_rd:u
+
+       1.179477880 seconds time elapsed
+
+       1.159510000 seconds user
+       0.019991000 seconds sys
+
+
+Running Perf for data size: 4000
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4000':
+
+        10,041,902      ll_cache_miss:u
+        10,611,947      ll_cache_rd:u
+
+       1.186518620 seconds time elapsed
+
+       1.176521000 seconds user
+       0.010055000 seconds sys
+
+
+Running Perf for data size: 4100
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4100':
+
+        10,692,826      ll_cache_miss:u
+        11,105,871      ll_cache_rd:u
+
+       1.258834720 seconds time elapsed
+
+       1.228875000 seconds user
+       0.029972000 seconds sys
+
+
+Running Perf for data size: 4200
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4200':
+
+        11,272,534      ll_cache_miss:u
+        11,654,693      ll_cache_rd:u
+
+       1.299470430 seconds time elapsed
+
+       1.259509000 seconds user
+       0.039984000 seconds sys
+
+
+Running Perf for data size: 4300
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4300':
+
+        11,835,715      ll_cache_miss:u
+        12,198,239      ll_cache_rd:u
+
+       1.343734900 seconds time elapsed
+
+       1.333725000 seconds user
+       0.010028000 seconds sys
+
+
+Running Perf for data size: 4400
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4400':
+
+        12,467,726      ll_cache_miss:u
+        12,843,135      ll_cache_rd:u
+
+       1.393302710 seconds time elapsed
+
+       1.373271000 seconds user
+       0.020047000 seconds sys
+
+
+Running Perf for data size: 4500
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4500':
+
+        13,145,127      ll_cache_miss:u
+        13,536,117      ll_cache_rd:u
+
+       1.447462260 seconds time elapsed
+
+       1.427354000 seconds user
+       0.020103000 seconds sys
+
+
+Running Perf for data size: 4600
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4600':
+
+        13,512,308      ll_cache_miss:u
+        13,935,039      ll_cache_rd:u
+
+       1.436912600 seconds time elapsed
+
+       1.406800000 seconds user
+       0.030145000 seconds sys
+
+
+Running Perf for data size: 4700
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4700':
+
+        14,122,120      ll_cache_miss:u
+        14,530,364      ll_cache_rd:u
+
+       1.522100150 seconds time elapsed
+
+       1.522117000 seconds user
+       0.000000000 seconds sys
+
+
+Running Perf for data size: 4800
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4800':
+
+        14,878,381      ll_cache_miss:u
+        15,355,002      ll_cache_rd:u
+
+       1.538396910 seconds time elapsed
+
+       1.527859000 seconds user
+       0.010051000 seconds sys
+
+
+Running Perf for data size: 4900
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 4900':
+
+        15,345,096      ll_cache_miss:u
+        15,782,085      ll_cache_rd:u
+
+       1.570486800 seconds time elapsed
+
+       1.570488000 seconds user
+       0.000000000 seconds sys
+
+
+Running Perf for data size: 5000
+failed to get cpuid string for PMU hisi_sccl1_l3c14
+failed to get cpuid string for PMU hisi_sccl7_l3c23
+failed to get cpuid string for PMU hisi_sccl5_l3c30
+failed to get cpuid string for PMU hisi_sccl3_l3c6
+failed to get cpuid string for PMU hisi_sccl1_l3c15
+failed to get cpuid string for PMU hisi_sccl5_l3c31
+failed to get cpuid string for PMU hisi_sccl7_l3c22
+failed to get cpuid string for PMU hisi_sccl3_l3c7
+数据加载成功
+
+ Performance counter stats for '/home/s2213917/perf/cache_hit_rate 5000':
+
+        15,910,599      ll_cache_miss:u
+        16,395,049      ll_cache_rd:u
+
+       1.663307550 seconds time elapsed
+
+       1.653268000 seconds user
+       0.010019000 seconds sys
