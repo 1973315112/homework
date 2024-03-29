@@ -4,4 +4,4 @@ beanchmarking是一个非常简单的基准测试集
 
 multiplication是n×n矩阵与向量内积实验以及n个数求和实验相关代码
 
-Introduction_to_Algorithm是算法导论的大作业，题目为基于状态压缩方法的Buchberger算法高斯消元化，测试集过大无法上传，报告待上传。
+Introduction_to_Algorithm是算法导论的大作业，题目为基于状态压缩方法的Buchberger算法高斯消元化，测试集过大无法上传。
