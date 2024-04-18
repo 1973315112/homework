@@ -1,9 +1,11 @@
 这是南开大学计算机学院的作业
 
-beanchmarking是一个非常简单的基准测试集
+beanchmarking是一个非常简单的基准测试集(计算机组成原理)
 
-multiplication是n×n矩阵与向量内积实验以及n个数求和实验相关代码
+multiplication是n×n矩阵与向量内积实验以及n个数求和实验相关代码（并行程序设计）
 
-Introduction_to_Algorithm是算法导论的大作业，题目为基于状态压缩方法的Buchberger算法高斯消元化，测试集过大无法上传。
+Introduction_to_Algorithm为基于状态压缩方法的Buchberger算法高斯消元化，测试集过大无法上传。（算法导论，与并行程序设计打通）
 
-Fast_multiplier是基于布斯编码和华莱士树的快速乘法器。
+Fast_multiplier是基于布斯编码和华莱士树的快速乘法器。（计算机组成原理）
+
+SIMD是基于SIMD的普通高斯消元和状态压缩Buchberger算法并行化（并行程序设计）
