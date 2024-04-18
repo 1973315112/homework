@@ -1,0 +1,28 @@
+# Project: Grobner
+# Makefile created by Embarcadero Dev-C++ 6.3
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o
+LINKOBJ  = main.o
+LIBS     = -L"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/lib" -L"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/include" -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+CXXINCS  = -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/include" -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include" -I"D:/Software/DevC++/DevC++/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"
+BIN      = Grobner.exe
+CXXFLAGS = $(CXXINCS) -fexec-charset=gbk
+CFLAGS   = $(INCS) -fexec-charset=gbk
+DEL      = D:\Software\DevC++\DevC++\Dev-Cpp\devcpp.exe INTERNAL_DEL
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${DEL} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
