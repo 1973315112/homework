@@ -11,3 +11,5 @@ Fast_multiplier是基于布斯编码和华莱士树的快速乘法器。（计�
 proposs是普通高斯消元和状态压缩Buchberger算法并行化研究开题报告和准备（并行程序设计）
 
 SIMD是基于SIMD的普通高斯消元和状态压缩Buchberger算法并行化（并行程序设计）
+
+多线程是基于Pthread和OpenMP的高斯消元并行实验（并行程序设计）
