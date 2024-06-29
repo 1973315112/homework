@@ -15,3 +15,5 @@ SIMD是基于SIMD的普通高斯消元和状态压缩Buchberger算法并行化�
 多线程是基于Pthread和OpenMP的高斯消元并行实验（并行程序设计）
 
 MPI是基于MPI的高斯消元并行实验（并行程序设计）
+
+composite是Buchberger算法优化的系统梳理和复合优化成果（并行程序设计）
